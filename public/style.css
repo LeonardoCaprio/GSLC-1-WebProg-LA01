@@ -1,0 +1,43 @@
+.body{
+    width: 100%;
+    background-color: white;
+    overflow-x: hidden;
+    height: 100%;
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+.konten{
+    align-items: center;
+}
+
+.nav-table{
+    background-color: darkcyan;
+    text-align: center;
+}
+
+.bodytable tr:hover{
+    background-color: grey;
+    color: white;
+}
+
+.bodytable tr{
+    text-align: center;
+}
+
+.nav-link:hover{
+    background-color: grey;
+    border-radius: 1rem;
+}
+
+.container-fluid{
+    text-align: center;
+}
+
+
+
